@@ -20,7 +20,7 @@ function FindProxyForURL(url, host)
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-    var ip_address = '172.0.0.1:8080';
+    var ip_address = '127.0.0.1:8080';
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * 
      *                                                 *
