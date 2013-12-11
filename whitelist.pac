@@ -28,7 +28,7 @@ function FindProxyForURL(url, host)
      * Proxy type                                      *
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
-    var proxy_type = 'SOCKS5'; // or 'SOCKS' 
+    var proxy_type = "SOCKS 127.0.0.1:8080; SOCKS5 127.0.0.1:8080";
 
     // HTTPS 是用于 Chrome 的安全代理
     // http://www.chromium.org/developers/design-documents/secure-web-proxy
