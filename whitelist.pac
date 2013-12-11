@@ -20,7 +20,7 @@ function FindProxyForURL(url, host)
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-    var ip_address = 'p1.5bird.com:23830';
+    var ip_address = 'p1.5bird.com:8080';
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * 
      *                                                 *
